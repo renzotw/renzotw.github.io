@@ -12,8 +12,6 @@ I will be working full time as a management consultant at [`Kearney`](https://ww
 
 In my free time I enjoy playing sports including basketball, volleyball, sailing, and golf. I also enjoy traveling, hiking, going to the beach, and exploring new restaurants. 
 
----
-
 
 ### Contact me
 
