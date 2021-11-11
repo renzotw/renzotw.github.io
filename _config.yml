@@ -9,7 +9,7 @@ name: Renzo's Blog
 description: UCLA Math Student
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/profile.png
+avatar: https://raw.githubusercontent.com/PIC16B/PIC16B.github.io/master/images/ucla-math.png
 
 #
 # Flags below are optional
