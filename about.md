@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Senior at UCLA studying Financial Mathematics with a Specialization in Computing. Interested in equity reseach, financial engineering, management consulting, and tech. 
+Senior at UCLA studying Financial Mathematics with a Specialization in Computing. Interested in equity reseach, fixed income, management consulting, and tech. Will be working full time as a management consultant at Kearney following graduation. 
+
+In my free time I love playing sports including basketball, volleyball, sailing, and golf. I also enjoy traveling, hiking, going to the beach, and exploring new restaurants. 
+
 
 ### Contact me
 
