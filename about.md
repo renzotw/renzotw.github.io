@@ -12,7 +12,7 @@ permalink: /about/
 
 🌉 I will be working full time as a management consultant at [Kearney](https://www.kearney.com/) in the San Francisco office following graduation. 
 
-⛰️ In my free time I enjoy playing sports including basketball, beach volleyball, skiing. Recently I've learned how to sail and play golf. I also enjoy traveling, hiking, going to the beach, and exploring new restaurants. 
+⛰️ In my free time I enjoy playing sports including basketball, beach volleyball, and skiing. Recently I've learned how to sail and play golf. I also enjoy traveling, hiking, going to the beach, and exploring new restaurants. 
 
 
 ### Contact me
