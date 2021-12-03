@@ -12,7 +12,7 @@ My past experiences include machine learning research at [Liberty Mutual](https:
 
 I will be working full time as a management consultant at [Kearney](https://www.kearney.com/) following graduation. 
 
-In my free time I enjoy playing sports including basketball, volleyball, sailing, and golf. I also enjoy traveling, hiking, going to the beach, and exploring new restaurants. 
+In my free time I enjoy playing sports including basketball, beach volleyball, skiing. Recently I've learned how to sail and play golf. I also enjoy traveling, hiking, going to the beach, and exploring new restaurants. 
 
 
 ### Contact me
