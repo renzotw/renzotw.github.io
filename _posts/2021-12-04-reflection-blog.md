@@ -18,7 +18,7 @@ For the website interface, we're proud that the user is able to interact with th
 
 For our network visualizations, we're proud in how we were able to glean some mathematical insight from the data we had. We also think that, combined with the *Dash* callbacks, we were able to make visualizations that were actually interpretable and useful for the recommendation engine.
 
-## What are **two** things you would suggest doing to further improve your project?*
+## *What are **two** things you would suggest doing to further improve your project?*
 
 Two things we would like to improve on are the recommendation algorithm and the user inputs forr our recommendation algorithm.
 
@@ -27,7 +27,7 @@ First, using a propensity score like we discussed would provide better results, 
 Next, we would like to incorporate more user interaction besides just the drop-down menu and slider. Getting information from users, like what genre, year, and a link to the show they wanted to use as its show of reference would make it more custom for the user.
 
 
-## How does what you achieved compare to what you set out to do in your proposal? (if you didn't complete everything in your proposal, that's fine!)
+## *How does what you achieved compare to what you set out to do in your proposal? (if you didn't complete everything in your proposal, that's fine!)
 
 Initially, we sought to implement a cutting edge clustering algorithm and then to use it on a simulation study and present a Python package.
 
@@ -47,7 +47,7 @@ This project has taught me a tremendous amount about how to effectively collabor
 Personally, this helped me understand just how difficult even "basic" network analysis is. My experiences from UM this summer with networks was a more statistical approach that helped me understand summary statistics, but I still lacked the ability to expertly apply current algorithms in use for clustering analysis, as well as fail to recognize early on the limitations of our data. Even with this, it has still helped me understand that I have a lot to learn in network-linked data. Despite being difficult, I am still very excited for the opportunity to conduct research with such data (and hopefully more complex) in my journey in higher education! Hopefully, I can take what I learned from this project as a graduate researcher and apply the lessons that I've learned, as well as the experience I now have with Python libraries involving network analysis.
 
 
-## Special Thanks
+## *Special Thanks*
 
 Lastly, we'd like to thank Professor Phil Chodrow for being such an amazing professor this quarter. He was extremely supportive and insightful in giving us direction in both the projects and other assignments. We both thoroughly enjoyed going to lecture everyday, and we hope to have the privilege to take another class with him before we graduate.
 
