@@ -27,7 +27,7 @@ First, using a propensity score like we discussed would provide better results, 
 Next, we would like to incorporate more user interaction besides just the drop-down menu and slider. Getting information from users, like what genre, year, and a link to the show they wanted to use as its show of reference would make it more custom for the user.
 
 
-## *How does what you achieved compare to what you set out to do in your proposal? (if you didn't complete everything in your proposal, that's fine!)
+## *How does what you achieved compare to what you set out to do in your proposal? (if you didn't complete everything in your proposal, that's fine!)*
 
 Initially, we sought to implement a cutting edge clustering algorithm and then to use it on a simulation study and present a Python package.
 
