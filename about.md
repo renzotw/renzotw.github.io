@@ -6,9 +6,9 @@ permalink: /about/
 
 
 
-🏫 I'm currently a senior at UCLA studying Financial Mathematics with a Concentration in Computing. I'm interested in equity reseach, management consulting, and tech. 
+🏫 I'm currently a senior at UCLA studying Financial Mathematics with a Concentration in Computing. I'm interested in equity reseach, management consulting, fintech, and edtech.
 
-💻 My past experiences include machine learning research at [Liberty Mutual](https://www.libertymutual.com/), coporate finance and supply chain at [RH](https://rh.com/), and pro-bono consulting through [Consult Your Community](https://www.cycucla.org/).
+💻 My past experiences include machine learning research at [Liberty Mutual](https://www.libertymutual.com/), coporate finance and supply chain at [RH](https://rh.com/), and pro-bono consulting with [Consult Your Community](https://www.cycucla.org/).
 
 🌉 I will be working full time as a management consultant at [Kearney](https://www.kearney.com/) in the San Francisco office following graduation. 
 
