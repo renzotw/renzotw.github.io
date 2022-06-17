@@ -4,14 +4,17 @@ title: About
 permalink: /about/
 ---
 
-<img align="right" src="{{ site.baseurl }}/images/pfp.png">
+<img align="right" src="{{ site.baseurl }}/images/pfp.jpg" width="250">
 
-Some information about you!
+I'm a recent graduate of UCLA where I studied Financial Mathematics and Computing. Starting August 2022 I will be working as a management consultant at [Kearney](kearney.com) in San Francisco. 
 
-### More Information
+My past experiences include machine learning research at Liberty Mutual, coporate finance and supply chain strategy at RH, and pro-bono consulting with Consult Your Community.
 
-A place to include any other types of information that you'd like to include about yourself.
+In my free time I enjoy playing basketball, rock climbing, cooking, playing the guitar, and exploring new restaurants. 
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Feel free to contact me at [renzo.atw@gmail.com](mailto:renzotw@gmail.com)
+
+Or find me on [linkedin](https://www.linkedin.com/in/renzotanakawong/)
