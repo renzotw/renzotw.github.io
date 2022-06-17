@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+<img align="right" src="{{ site.baseurl }}/images/pfp.png">
+
 Some information about you!
 
 ### More Information
