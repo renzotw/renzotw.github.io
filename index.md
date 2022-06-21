@@ -7,8 +7,8 @@ layout: default-no-footer
 <img align="right" src="{{ site.baseurl }}/images/pfp.jpg" width="250">
 
 
-I'm a recent graduate of UCLA where I studied Financial Mathematics and Computing. Starting August 2022 I will be working as a management consultant at [Kearney](kearney.com) in San Francisco. 
+I'm a recent graduate of UCLA where I studied Financial Mathematics and Computing. Starting August 2022 I will be working as a management consultant at [Kearney](https://kearney.com/) in San Francisco. 
 
-My past experiences include ML research at Liberty Mutual, corporate finance and supply chain strategy at RH, and pro-bono consulting with Consult Your Community.
+My past experiences include ML research at [Liberty Mutual](https://www.libertymutualgroup.com/about-lm/corporate-information/overview), corporate finance and supply chain strategy at [RH](https://rh.com/), and pro-bono consulting with [Consult Your Community](https://consultyourcommunity.org/).
 
-I created this blog to document various personal projects as well as to get inspired to write down thoughts and reflections. 
+I created this blog to document various personal projects as well as to start writing down anything from my thoughts to life updates to articles. 
