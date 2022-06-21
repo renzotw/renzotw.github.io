@@ -114,6 +114,10 @@ img {
   max-width: 100%;
 }
 
+img.rounded-corners {
+  border-radius: 10px;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;

@@ -4,7 +4,7 @@ layout: default-no-footer
 
 # Hi! 👋 
 
-<img align="right" src="{{ site.baseurl }}/images/pfp.jpg" width="250">
+<img align="right" src="{{ site.baseurl }}/images/pfp.jpg" width="250" class="rounded-corners" />
 
 
 I'm a recent graduate of UCLA where I studied Financial Mathematics and Computing. Starting August 2022 I will be working as a management consultant at [Kearney](https://kearney.com/) in San Francisco. 
