@@ -61,7 +61,7 @@ Business Development Intern
     <span style="float:right;">
         *Jun 2015 - Jul 2015*
     </span><br>
-    Evaluated real estate aquisition opportunities to add to expansion portfolio.<br>
+    Evaluated potential real estate aquisition opportunities to add to real estate portfolio.<br>
 </p>
 </div>
 {::options parse_block_html="false" /}
