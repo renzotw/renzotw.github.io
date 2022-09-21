@@ -90,7 +90,7 @@ Predicting US Car Prices
     <span style="float:right;">
         *Dec 2020*
     </span><br>
-    Developed a regression model in R and implemented various variable selection methods including regression subset, AIC, BIC to predict US automobile prices.
+    Developed a regression model in R and implemented various variable selection methods including regression subset, AIC, BIC to predict US automobile prices.<br>
 </p>
 </div>
 {::options parse_block_html="false" /}
@@ -103,7 +103,7 @@ Beam Dental Customer Retention Model
     <span style="float:right;">
         *Jan 2020*
     </span><br>
-    Developed a retention probability model in excel to develop a strategy to meet Beam Dental's loss ratio goals.
+    Developed a retention probability model in excel to develop a strategy to meet Beam Dental's loss ratio goals.<br>
 </p>
 </div>
 {::options parse_block_html="false" /}
