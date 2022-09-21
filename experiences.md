@@ -25,6 +25,7 @@ Machine Learning Research Intern
     <span style="float:right;">
         *Jun 2021 - Sep 2021*
     </span><br>
+    Worked with the Complex Components team to research machine learning methods to optimize customer risk segmentation.<br>
 </p>
 </div>
 {::options parse_block_html="false" /}
@@ -37,10 +38,12 @@ Innovation Analyst
     <span style="float:right;">
         *Feb 2022 - Apr 2022*
     </span><br>
+    Worked with the national operations team to develop strategies to engage CYC's national client alumni base.<br>
 Business Analyst
     <span style="float:right;">
         *Dec 2019 - Jun 2021*
     </span><br>
+    Provided pro-bono consulting services to start ups, small businesses, and non-profits in the local LA community.<br>
 </p>
 </div>
 {::options parse_block_html="false" /}
@@ -53,10 +56,12 @@ Strategic Finance Intern - *Supply Chain and Retail Strategy*
     <span style="float:right;">
         *Aug 2019 - Sep 2019*
     </span><br>
+    Aided Retail and Supply Chain strategy team in variance analysis, P&L reconciliation, and sales and demand forecasting. Optimized supply chain network by identifying network consolidation and transformation opportunities.<br>
 Business Development Intern
     <span style="float:right;">
         *Jun 2015 - Jul 2015*
     </span><br>
+    Evaluated real estate aquisition opportunities to add to expansion portfolio.<br>
 </p>
 </div>
 {::options parse_block_html="false" /}
@@ -72,6 +77,7 @@ Combatting US Drug Misusage
     <span style="float:right;">
         *Apr 2021*
     </span><br>
+    Implemented Python machine learning classification methods to assist physicians in predicting drug misuse cases.<br>
 </p>
 </div>
 {::options parse_block_html="false" /}
@@ -84,6 +90,7 @@ Predicting US Car Prices
     <span style="float:right;">
         *Dec 2020*
     </span><br>
+    Developed a regression model in R and implemented various variable selection methods including regression subset, AIC, BIC to predict US automobile prices.
 </p>
 </div>
 {::options parse_block_html="false" /}
@@ -96,6 +103,9 @@ Beam Dental Customer Retention Model
     <span style="float:right;">
         *Jan 2020*
     </span><br>
+    Developed a retention probability model in excel to develop a strategy to meet Beam Dental's loss ratio goals.
 </p>
 </div>
 {::options parse_block_html="false" /}
+
+
