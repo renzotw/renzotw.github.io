@@ -25,7 +25,7 @@ Machine Learning Research Intern
     <span style="float:right;">
         *Jun 2021 - Sep 2021*
     </span><br>
-    Worked with the Complex Components team to research machine learning methods to optimize customer risk segmentation.<br>
+    Worked with the Complex Components group to research machine learning methods to optimize customer risk segmentation.<br>
 </p>
 </div>
 {::options parse_block_html="false" /}
