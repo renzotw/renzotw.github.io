@@ -10,6 +10,6 @@ I'm a recent graduate of UCLA and currently working as a management consultant a
 
 My past experiences include ML research, corporate finance and supply chain strategy, and pro-bono consulting.
 
-In my free time I enjoy rock climbing, playing basketball, and cooking.
+In my free time I enjoy rock climbing, playing basketball, exploring new restaurants, and occasionally cooking.
 
 I created this blog to document various personal projects as well as to start writing down anything from my thoughts to life updates to articles. 
