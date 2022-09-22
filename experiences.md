@@ -35,7 +35,7 @@ permalink: /experiences/
 {::options parse_block_html="true" /}
 <div class="button1" onclick="window.location.href='https://consultyourcommunity.org/';">
 <p>
-<font size="6">Consult Yout Community</font><br>
+<font size="6">Consult Your Community</font><br>
 **Innovation Analyst**
     <span style="float:right;">
         *Feb 2022 - Apr 2022*
