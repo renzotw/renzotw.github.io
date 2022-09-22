@@ -93,7 +93,7 @@ permalink: /experiences/
 <font size="6">Kaggle Data Science Competition</font><br>
 **Predicting US Car Prices**
     <span style="float:right;">
-        *Dec 2020*
+        *Feb 2021*
     </span><br>
     Developed a regression model in R and implemented various variable selection methods including regression subset, AIC, BIC to predict US automobile prices.<br>
 </p>
