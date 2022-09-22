@@ -4,10 +4,9 @@ title: Experiences
 permalink: /experiences/
 ---
 
-
+<!-- Kearney -->
 {::options parse_block_html="true" /}
-<div class="got-help">
-<a href="kearney.com">
+<div class="button1" onclick="window.location.href='https://kearney.com';">
 <p>
 <font size="6">Kearney</font><br>
 **Business Analyst**
@@ -15,25 +14,26 @@ permalink: /experiences/
         *Aug 2022 - Present*
     </span><br>
 </p>
-<a>
 </div>
 {::options parse_block_html="false" /}
 
+<!-- Liberty Mutual -->
 {::options parse_block_html="true" /}
-<div class="got-help">
+<div class="button1" onclick="window.location.href='https://jobs.libertymutualgroup.com/careers/digital-technology/data-science/';">
 <p>
 <font size="6">Libery Mutual Insurance Group</font><br>
 **Machine Learning Research Intern**
     <span style="float:right;">
         *Jun 2021 - Sep 2021*
     </span><br>
-    Worked with the Complex Components group to research machine learning methods to optimize customer risk segmentation.<br>
+    Worked with the Product Design and Modeling - Complex Components group to research machine learning methods to optimize customer risk segmentation for their pricing models.<br>
 </p>
 </div>
 {::options parse_block_html="false" /}
 
+<!-- CYC -->
 {::options parse_block_html="true" /}
-<div class="got-help">
+<div class="button1" onclick="window.location.href='https://consultyourcommunity.org/';">
 <p>
 <font size="6">Consult Yout Community</font><br>
 **Innovation Analyst**
@@ -45,13 +45,14 @@ permalink: /experiences/
     <span style="float:right;">
         *Dec 2019 - Jun 2021*
     </span><br>
-    Provided pro-bono consulting services to start ups, small businesses, and non-profits in the local LA community.<br>
+    Provided pro-bono consulting services to start ups, small businesses, and non-profits in the local LA community. Projects spanned product development, digital customer attraction, and pricing strategy.<br>
 </p>
 </div>
 {::options parse_block_html="false" /}
 
+<!-- RH -->
 {::options parse_block_html="true" /}
-<div class="got-help">
+<div class="button1" onclick="window.location.href='https://rh.com/';">
 <p>
 <font size="6">RH</font><br>
 **Strategic Finance Intern** 
@@ -71,8 +72,9 @@ permalink: /experiences/
 
 # Case Compeititions
 
+<!-- DataFest -->
 {::options parse_block_html="true" /}
-<div class="gave-help">
+<div class="button2" onclick="window.location.href='https://renzotw.github.io/projects/project-8/';">
 <p>
 <font size="6">American Statistical Association DataFest</font><br>
 **Combatting US Drug Misusage**
@@ -84,8 +86,9 @@ permalink: /experiences/
 </div>
 {::options parse_block_html="false" /}
 
+<!-- Predicting Car Prices -->
 {::options parse_block_html="true" /}
-<div class="gave-help">
+<div class="button2" onclick="window.location.href='https://renzotw.github.io/projects/project-7/';">
 <p>
 <font size="6">Kaggle Data Science Competition</font><br>
 **Predicting US Car Prices**
@@ -97,8 +100,9 @@ permalink: /experiences/
 </div>
 {::options parse_block_html="false" /}
 
+<!-- Actuarial case comp -->
 {::options parse_block_html="true" /}
-<div class="gave-help">
+<div class="button2">
 <p>
 <font size="6">Bruin Actuarial Case Competition</font><br>
 **Beam Dental Customer Retention Model**
