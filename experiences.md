@@ -40,7 +40,7 @@ permalink: /experiences/
     <span style="float:right;">
         *Feb 2022 - Apr 2022*
     </span><br>
-    Worked with the national operations team to develop strategies to engage CYC's national client alumni base.<br>
+    Worked with the CYC National Task Force to develop strategies to engage CYC's national client alumni base.<br>
 **Business Analyst**
     <span style="float:right;">
         *Dec 2019 - Jun 2021*
