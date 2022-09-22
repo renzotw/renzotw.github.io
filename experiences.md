@@ -6,7 +6,7 @@ permalink: /experiences/
 
 
 {::options parse_block_html="true" /}
-<div class="got-help">
+<a href="kearney.com"><div class="got-help">
 <p>
 <font size="6">Kearney</font><br>
 **Business Analyst**
@@ -14,7 +14,7 @@ permalink: /experiences/
         *Aug 2022 - Present*
     </span><br>
 </p>
-</div>
+</div><a>
 {::options parse_block_html="false" /}
 
 {::options parse_block_html="true" /}
