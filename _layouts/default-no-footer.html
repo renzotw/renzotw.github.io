@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
+    {% if jekyll.environment == 'production' and site.google_analytics %}
+    {% include analytics.html %}
+    {% endif %}
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
@@ -21,9 +24,6 @@
     <!-- mathjax -->
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-    {% if jekyll.environment == 'production' and site.google_analytics %}
-    {% include analytics.html %}
-    {% endif %}
   </head>
 
   <body>
