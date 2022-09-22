@@ -77,7 +77,7 @@ permalink: /experiences/
 <div class="button2" onclick="window.location.href='https://renzotw.github.io/projects/project-8/';">
 <p>
 <font size="6">American Statistical Association DataFest</font><br>
-**Combatting US Drug Misusage**
+**Combatting US Drug Misuse**
     <span style="float:right;">
         *Apr 2021*
     </span><br>
